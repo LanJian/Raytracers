@@ -8,3 +8,5 @@ Meta repository for my raytracers
 **Golang**: https://github.com/LanJian/godray
 
 **Ruby**: https://github.com/LanJian/rubyray
+
+**Python**: https://github.com/LanJian/pytracer
