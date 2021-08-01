@@ -10,3 +10,5 @@ Meta repository for my raytracers
 **Ruby**: https://github.com/LanJian/rubyray
 
 **Python**: https://github.com/LanJian/pytracer
+
+**Rust**: https://github.com/LanJian/raytox
